@@ -1,7 +1,10 @@
 fichier essai4
 initial modifié pour essai
 2e modif pour essai git gui et git extension
+<<<<<<< HEAD
 modif sur branche develop et suppression ligne avc modif sur nouvelle-branche
+=======
+modif sur nouvelle-branche
 ajout autre ligne pour noouvelle-branche
 essai autre ajout
-ajout sur branche develop
+>>>>>>> noouvelle-branche
